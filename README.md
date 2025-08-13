@@ -14,15 +14,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur_hidayat21&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur_hidayat21&layout=compact&theme=radical" height="180"/>
+ 
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nur_hidayat21&theme=dracula&column=4&margin-w=15&margin-h=15"/>
+ 
 </p>
 
 ---
