@@ -34,10 +34,6 @@
 ---
 
 ### 📫 Connect with me
-<p align="left">
-<a href="https://instagram.com/animus_lumin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://instagram.com/lux_daco" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
 
 ---
 
